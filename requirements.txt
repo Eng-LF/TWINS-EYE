@@ -1,0 +1,1 @@
+# This prototype runs pose inference in the browser; no Python packages are required.
